@@ -13,7 +13,7 @@ function generateTaskId() {
 // Todo: create a function to create a task card
 function createTaskCard(task) {
 
-    var formattedDueDate = dayjs(task.dueDate).format("MM/DD/YYYY"); // Format the due date
+    var formattedDueDate = dayjs(task.dueDate).format("MM/DD/YYYY");
     var backgroundColor = getColor(task.dueDate);
     var cardHTML = `
     <div class="task-card" data-task-id="${task.id}" style="background-color: ${backgroundColor};">
