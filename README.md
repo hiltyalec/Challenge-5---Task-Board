@@ -8,4 +8,4 @@ This is a task board application that allows the user to create a task card and 
 
 Repository Link: https://github.com/hiltyalec/Challenge-5---Task-Board
 
-Deployed Application Link:
+Deployed Application Link: https://hiltyalec.github.io/Challenge-5---Task-Board/
